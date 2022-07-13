@@ -133,4 +133,7 @@ body {
     .get-the-app{
         display: none;
     }
+    .profile-photo img{
+        height:4rem;
+    }
 }
